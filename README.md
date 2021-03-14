@@ -1,3 +1,5 @@
+#### Sharing Part of my project work done while taking Specialist Diploma In Applied Artificial Intelligence
+
 # ScrapingUsingScrapy
 Using python Scrapy module to design a web scraping program to get the content from the following website 
 
